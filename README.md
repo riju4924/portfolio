@@ -2,7 +2,7 @@
 
 A clean, aesthetic, and fully responsive personal portfolio website built with pure HTML, CSS, and JavaScript. Designed with a dark luxury editorial aesthetic featuring gold and violet accents.
 
-🌐 **Live Site:** [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+🌐 **Live Site:** [mrinmoy-portfolio.vercel.app](https://mrinmoy-mukherjee-portfolio.vercel.app/)
 
 ---
 
